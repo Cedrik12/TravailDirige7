@@ -20,7 +20,7 @@ public class Main {
 	
 	e= new Employe("ccc", "c", 31);
 	e.ajouterEmploye();
-	e= new Employe("ddd", "d", 10);
+	e= new Employe("222", "as", 11);
 	e.ajouterEmploye();
 	
 	
